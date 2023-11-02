@@ -1,7 +1,11 @@
 # STOCK-MARKET-AND-CHAOS-BY-COMPUTER-VISION-AND-MACHINE-LEARNING
 
 https://mega.nz/folder/3BdS1D7L#rOuAQLTBcUDGNDM9aTQXSQ
+
+
 https://universe.roboflow.com/models/object-detection
+
+
 https://www.kaggle.com/datasets/camnugent/sandp500
 
 
