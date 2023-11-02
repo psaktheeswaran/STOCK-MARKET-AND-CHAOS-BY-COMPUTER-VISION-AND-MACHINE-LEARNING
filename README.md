@@ -2,7 +2,9 @@
 
 https://mega.nz/folder/3BdS1D7L#rOuAQLTBcUDGNDM9aTQXSQ
 https://universe.roboflow.com/models/object-detection
-
+https://www.kaggle.com/datasets/camnugent/sandp500
+https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data/
+https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 https://universe.roboflow.com/stock/area
 
 https://universe.roboflow.com/raj-9mo0d/stock-pxex9
