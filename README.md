@@ -25,4 +25,16 @@ https://universe.roboflow.com/duokan
 
 https://universe.roboflow.com/duokan/ahihi-wd5ee
 
+https://huggingface.co/foduucom/stockmarket-pattern-detection-yolov8
+
+https://universe.roboflow.com/khnh-dng-quc/c-6nruc
+
+https://universe.roboflow.com/duokan/ahihi-m5uvy
+
+https://universe.roboflow.com/duokan/ahihi-wd5ee
+
+https://universe.roboflow.com/duokan/ahihi-m5uvy
+
+https://universe.roboflow.com/duokan/ahihi-m5uvy
+
 
